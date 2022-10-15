@@ -1,0 +1,9 @@
+[book]
+authors = ["ECS Data Solutions"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ECS Data Solutions Docs"
+
+[build]
+build-dir = "docs"
