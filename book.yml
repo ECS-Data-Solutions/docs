@@ -6,4 +6,4 @@ src = "src"
 title = "ECS Data Solutions Docs"
 
 [build]
-build-dir = "docs"
+build-dir = "book"
